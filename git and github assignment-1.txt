@@ -1,0 +1,12 @@
+1.Git is one kind of version control system.
+2.It is a system that record changes to a file or set of files over time,so that we can recall specific version later,fore very source code changes in afile a new version will be created.
+3.github is website used which we can created our own remote repository in which we can upload our projects or codes and by collaboration we can connect to other people and give them acces to make changes in our code.
+4.gitlab,bitbucket,github,codebase,etc....
+5.There are three types of version control system are as follow:
+a.local version control system
+b.centralised version control system
+c.distributed version control system
+6.git advantage is its branching capabilities.git branches are cheap and easy to merge.
+7.git repository tracks and save the history of all changes made yo files in a git project.
+8.by using the syntax:git init in git bash,so it can create giy.exe file in that path then commit the files into local repository and make a repository in github then push the files from loal to remote repository
+ 
